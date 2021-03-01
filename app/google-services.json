@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "944100201567",
+    "firebase_url": "https://note-maker-66016.firebaseio.com",
+    "project_id": "note-maker-66016",
+    "storage_bucket": "note-maker-66016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944100201567:android:202cdd7ed288ade842b7ea",
+        "android_client_info": {
+          "package_name": "com.google.notemaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944100201567-4d95l5u5mdmgefql4lkn9rp93q2qah9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.notemaker",
+            "certificate_hash": "014f68901af9fc86ea6cd411fc8d004591f0000c"
+          }
+        },
+        {
+          "client_id": "944100201567-rkp4s3059r7782s282grg6brqrkq5ig7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS49LTLeBwEffYZQelwHjrdq9jW1y3Pmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944100201567-rkp4s3059r7782s282grg6brqrkq5ig7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
