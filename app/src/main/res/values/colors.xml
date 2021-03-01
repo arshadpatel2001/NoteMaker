@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="yellow">#FFE66E</color>
+    <color name="lightGreen">#a0ef9a</color>
+    <color name="pink">#ffaedf</color>
+    <color name="lightPurple">#d7afff</color>
+    <color name="skyblue">#9edfff</color>
+    <color name="gray">#e0e0e0</color>
+    <color name="red">#DB4848</color>
+    <color name="blue">#8C9EFF</color>
+    <color name="greenlight">#96D162</color>
+    <color name="notgreen">#EA80FC</color>
+    <color name="thistle">#d8bfd8</color>
+    <color name="mediumPurple">#9370db</color>
+    <color name="purple">#a020f0</color>
+    <color name="blueViolet">#8a2be2</color>
+    <color name="darkViolet">#9400d3</color>
+    <color name="darkOrchid">#9932cc</color>
+    <color name="mediumOrchid">#ba55d3</color>
+    <color name="orchid">#da70d6</color>
+    <color name="plum">#dda0dd</color>
+    <color name="violet">#ee82ee</color>
+    <color name="violetRed">#d02090</color>
+    <color name="mediumVioletRed">#c71585</color>
+    <color name="maroon">#b03060</color>
+    <color name="paleVioletRed">#db7093</color>
+    <color name="lightPink">#ffb6c1</color>
+    <color name="deepPink">#ff1493</color>
+    <color name="hotPink">#ff69b4</color>
+    <color name="orangeRed">#ff4500</color>
+    <color name="tomato">#ff6347</color>
+    <color name="lightCoral">#f08080</color>
+    <color name="darkOrange">#ff8c00</color>
+    <color name="orange">#ffa500</color>
+    <color name="brown">#a52a2a</color>
+    <color name="firebrick">#b22222</color>
+    <color name="chocolate">#d2691e</color>
+    <color name="rosyBrown">#bc8f8f</color>
+    <color name="indianRed">#cd5c5c</color>
+    <color name="mediumSpringGreen">#00fa9a</color>
+    <color name="chartreuse">#7fff00</color>
+
+
+</resources>
